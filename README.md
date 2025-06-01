@@ -23,3 +23,8 @@ ZoomiGo is a modern, real-time vehicle rental web application built with the MER
 ## 📷 Screenshots
 
 ![Homepage View](./Screenshots/homepage.png)
+![All Vehicles](./Screenshots/all-vehicles.png)
+![About](./Screenshots/about.png)
+![Contact](./Screenshots/contact.png)
+![Admin Dashboard](./Screenshots/admin-dashboard.png)  
+![Add Vehicle](./Screenshots/add-vehicle.png)
